@@ -139,7 +139,7 @@ function YesPage() {
           animation: "fadeSlideUp 0.8s ease-out 1s both",
           lineHeight: 1.8,
         }}>
-          Njnglute kadha ippol thudanguka.. 🌙<br />
+          Appo nammale kadha ivde thodangnu.. 🌙<br />
           Insha Allah, forever together. 💕
         </div>
 
